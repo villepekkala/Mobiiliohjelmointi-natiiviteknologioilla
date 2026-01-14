@@ -1,6 +1,8 @@
 # Kotlinperusteet-viikko1
 Viikko1 kotitehtävät
 
+[APK](app-debug.apk)
+
 ## Toiminnot
 
 - **Tehtävälista**  
