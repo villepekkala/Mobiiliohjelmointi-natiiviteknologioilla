@@ -1,7 +1,7 @@
 # Kotlinperusteet-viikko1
 Viikko1 kotitehtävät
 
-#APK linkki
+# APK linkki
 https://github.com/villepekkala/Mobiiliohjelmointi-natiiviteknologioilla/raw/refs/heads/main/app-debug.apk
 
 ## Toiminnot
